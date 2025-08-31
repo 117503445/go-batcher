@@ -1,9 +1,9 @@
 # Go Batcher
 
-[![Go Reference](https://pkg.go.dev/badge/go.vallahaye.net/batcher.svg)](https://pkg.go.dev/go.vallahaye.net/batcher)
-[![Go Report Card](https://goreportcard.com/badge/go.vallahaye.net/batcher)](https://goreportcard.com/report/go.vallahaye.net/batcher)
+[![Go Reference](https://pkg.go.dev/badge/github.com/117503445/go-batcher.svg)](https://pkg.go.dev/github.com/117503445/go-batcher)
+[![Go Report Card](https://goreportcard.com/badge/github.com/117503445/go-batcher)](https://goreportcard.com/report/github.com/117503445/go-batcher)
 
-Go Batcher provides a generic and versatile implementation of a batching algorithm for Golang, with no third-party dependencies. The algorithm can be constrained in [space](https://pkg.go.dev/go.vallahaye.net/batcher#WithMaxSize) and [time](https://pkg.go.dev/go.vallahaye.net/batcher#WithTimeout), with a simple yet robust API, enabling developers to easily incorporate batching into their live services.
+Go Batcher provides a generic and versatile implementation of a batching algorithm for Golang, with no third-party dependencies. The algorithm can be constrained in [space](https://pkg.go.dev/github.com/117503445/go-batcher#WithMaxSize) and [time](https://pkg.go.dev/github.com/117503445/go-batcher#WithTimeout), with a simple yet robust API, enabling developers to easily incorporate batching into their live services.
 
 ### Goals
 

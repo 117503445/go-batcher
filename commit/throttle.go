@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"go.vallahaye.net/batcher"
+	"github.com/117503445/go-batcher"
 )
 
 // Throttle calls the commit function at most once per time interval. It panics

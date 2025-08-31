@@ -1,3 +1,3 @@
-module go.vallahaye.net/batcher
+module github.com/117503445/go-batcher
 
-go 1.23
+go 1.24

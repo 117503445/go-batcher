@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"go.vallahaye.net/batcher"
+	"github.com/117503445/go-batcher"
 )
 
 // Timeout calls the commit function with a timeout set to the context. It
